@@ -311,4 +311,3 @@ Export-Package: ch.res_ear.samthiriot.knime.dialogs,
  org.geotools.jdbc,
  org.geotools.jdbc.util,
  org.geotools.kml
-Import-Package: org.w3c.dom.events;version="3.0.0"
